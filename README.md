@@ -1,5 +1,5 @@
 # reddit-bot
-Skeleton for Reddit Bot awaiting a purpose. For now, it just reads comments with text - "What?" and replies with - "He said " + text of the parent comment.
+Skeleton for Reddit Bot awaiting a purpose. For now, it just reads comments with the text - "What?" and replies with - "He said " + text of the parent comment.
 
 
 ## Running the bot:
