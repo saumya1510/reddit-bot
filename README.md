@@ -20,3 +20,4 @@ Skeleton for Reddit Bot awaiting a purpose. For now, it just reads comments with
   client_id: client ID
   client_secret: client secret key
 ```
+Acknowledgement: https://github.com/aydwi/explainxkcdbot
